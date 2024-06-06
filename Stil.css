@@ -1,0 +1,44 @@
+/* CSS Document */
+p {
+	color: lightpink;
+	font-family: Costantia "Lucida Bright", "Dejavu Serif", Georgia, "serif";
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+}
+.paragraf_2 {color:white; background-color: rgba(255, 255, 255, 0.5)}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.9);
+	padding:20px;
+	margin:20px;
+	width:50%;
+}
+h1, h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Aria, "sans-serif";
+	color: white;
+	background-color: pink ;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+span {color:blue;}
+.pozadina {
+	background-image: url("Slike/giphy (2).webp");
+}
+.drugapozadina {
+	background-image: url("Slike/giphy.webp");
+}
+a:link {
+	color: yellow;
+	background-color: pink ;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a: hover {
+	background-color: darkgrey
+}
+img {
+	height: 400px
+}
